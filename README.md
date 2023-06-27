@@ -1,6 +1,8 @@
 # First Javascript Project
 
 
-Learning javascript and jquery, basic functionalities!
+Learning javascript and jquery, basic functionalities
+
+Also learning form validations...
 
 Created on: 2022-12-14
