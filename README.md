@@ -1,6 +1,6 @@
 # First Javascript Project
 
-Learning the basics of javascript and jquery, gaining familiarity with the programming language. 
+Learning the basics of javascript and jQuery, gaining familiarity with the programming language. 
 Learning form validation on the client side.
 
 Also improving HTML, CSS and Bootstrap
