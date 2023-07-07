@@ -1,10 +1,8 @@
 # First Javascript Project
 
+Learning the basics of javascript and jquery, gaining familiarity with the programming language. 
+Learning form validation on the client side 
 
-Learning javascript and jquery, basic functionalities
-
-Also learning form validations...
-
-Created on: 2022-12-14
+It was created on 2022-Dec-14
 
 Link: https://ilijaweb.netlify.app/
